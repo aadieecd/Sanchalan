@@ -82,7 +82,7 @@ Developed as a hackathon project focused on intelligent team operations and even
 
 ## Contributors
 
-Add your teammates' GitHub usernames and describe each person's contribution here.
+@lunasticgold-hub
 
 ## License
 
