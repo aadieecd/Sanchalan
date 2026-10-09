@@ -86,4 +86,4 @@ Developed as a hackathon project focused on intelligent team operations and even
 
 ## License
 
-Add a license if and when one is selected for this project.
+This project is licensed under the [MIT License](LICENSE).
