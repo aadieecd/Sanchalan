@@ -28,7 +28,7 @@ Built as a hackathon project, it explores how connected tools and AI-assisted wo
 
 ## Live Demo
 
-**Coming soon:** Add your working Vercel deployment URL here.
+(https://sanchalan-eta.vercel.app/)
 
 ## Getting Started
 
